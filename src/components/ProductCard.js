@@ -4,7 +4,6 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
 import { Link } from "react-router-dom";
-import '../static/styles/productCard.css';
 
 class ProductCard extends Component {
   render() {
