@@ -1,0 +1,113 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptops"
+    },
+    {
+      "id": 2,
+      "name": "Mobiles"
+    },
+    {
+      "id": 3,
+      "name": "Speakers"
+    }
+  ],
+  "Laptops": [
+    {
+      "id": 1,
+      "name": "Lenovo",
+      "imageUrl": "laptop.png",
+      "description": "Dummy description",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Mac",
+      "imageUrl": "laptop.png",
+      "description": "Dummy description about Mac",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Dell",
+      "imageUrl": "laptop.png",
+      "description": "Dummy description about Dell",
+      "categoryId": 1
+    },
+    {
+      "id": 44,
+      "name": "HP",
+      "imageUrl": "laptop.png",
+      "description": "HP Dummy description",
+      "categoryId": 1
+    },
+    {
+      "id": 57,
+      "name": "Asus",
+      "imageUrl": "laptop.png",
+      "description": "Asus Dummy description",
+      "categoryId": 1
+    },
+    {
+      "id": 33,
+      "name": "Microsoft",
+      "imageUrl": "laptop.png",
+      "description": "Microsoft Dummy description",
+      "categoryId": 1
+    }
+  ],
+  "Mobiles": [
+    {
+      "id": 4,
+      "name": "One Plus",
+      "imageUrl": "mobile.png",
+      "description": "Dummy description",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Nokia",
+      "imageUrl": "mobile.png",
+      "description": "Dummy description",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Sony",
+      "imageUrl": "mobile.png",
+      "description": "Dummy description",
+      "categoryId": 2
+    }
+  ],
+  "Speakers": [
+    {
+      "id": 7,
+      "name": "Bose",
+      "imageUrl": "speaker.png",
+      "description": "Dummy description",
+      "categoryId": 3
+    },
+    {
+      "id": 8,
+      "name": "JBL",
+      "imageUrl": "speaker.png",
+      "description": "Dummy description",
+      "categoryId": 3
+    },
+    {
+      "id": 9,
+      "name": "boAt",
+      "imageUrl": "speaker.png",
+      "description": "Dummy description",
+      "categoryId": 3
+    },
+    {
+      "id": 10,
+      "name": "Philips",
+      "imageUrl": "speaker.png",
+      "description": "Dummy description",
+      "categoryId": 3
+    }
+  ]
+}
